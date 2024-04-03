@@ -8,6 +8,7 @@ public class ECommerceAdminAclServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ECommerceAdminAclServiceApplication.class, args);
+
     }
 
 }
